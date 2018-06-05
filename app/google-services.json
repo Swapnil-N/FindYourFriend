@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804157524432",
+    "firebase_url": "https://findyourfriend-92ac8.firebaseio.com",
+    "project_id": "findyourfriend-92ac8",
+    "storage_bucket": "findyourfriend-92ac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804157524432:android:f05bcecda4a42221",
+        "android_client_info": {
+          "package_name": "com.example.swapn.findyourfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804157524432-fjg5cqn19m5ehdqt4rol5bir2nraf1c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapn.findyourfriend",
+            "certificate_hash": "5f890708c318a82055240d66e4ad59798f110267"
+          }
+        },
+        {
+          "client_id": "804157524432-u51jq6r8mug3irao73b3tk2pmuq75utd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJU5Zi490sCtSPCLIMoY4C0X2_XbYsNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804157524432-u51jq6r8mug3irao73b3tk2pmuq75utd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
